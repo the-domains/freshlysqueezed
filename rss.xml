@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FreshlySqueezed]]></title>
         <description><![CDATA[FreshlySqueezed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freshlysqueezed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 10:05:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 10:39:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freshlysqueezed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Intuition </p>]]></description>
-            <link>undefined90a01d50-cca1-4bbc-9a61-a57660a7c4a8/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da5c450f-7b44-480b-bfda-8d5b1bef6b3d.jpg">]]></description>
+            <link>https://thegrid.ai/freshlysqueezed/90a01d50-cca1-4bbc-9a61-a57660a7c4a8/index.html</link>
             <guid isPermaLink="false">90a01d50-cca1-4bbc-9a61-a57660a7c4a8</guid>
-            <pubDate>Tue, 01 Mar 2016 09:59:04 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 10:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
