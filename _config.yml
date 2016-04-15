@@ -1,7 +1,7 @@
 name: FreshlySqueezed
 favicon: null
-layout_spectrum: 0.87535
-typography_spectrum: 0.88571
+layout_spectrum: 1
+typography_spectrum: 0.25277
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5255779880098999
-  lightness: 0.06560543132945895
-  saturation: 0.8125
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose: []
